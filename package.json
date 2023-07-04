@@ -8,7 +8,7 @@
   "scripts": {
     
 
-    "build": "yar run build --output public",
+    "build": "yarn run build --output public",
   
   
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
