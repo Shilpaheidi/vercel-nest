@@ -8,7 +8,7 @@
   "scripts": {
     
 
-    "build": "vercel build --output public",
+    "build": "yarn build --output public",
   
   
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
